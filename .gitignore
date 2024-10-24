@@ -1,0 +1,9 @@
+# Ignore Docker and service-specific files
+n8n/backup/
+shared/
+qdrant_storage/
+ollama_storage/
+n8n_storage/
+n8n_postgres_storage/
+exemple_docker-compose.yml
+.env
